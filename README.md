@@ -23,4 +23,16 @@ Each assignment should leave behind:
 
 ## Layout
 
-Research notes will land under `research/` as assignments arrive. Until then this repo is the empty frame.
+```
+research/
+  finance/
+    2026-08-30-ai-capital-riptide/   first assignment
+  technology/                        (empty)
+  industry/                          (empty)
+```
+
+See [research/](research/) for the index.
+
+## Current work
+
+- **[The AI capital riptide](research/finance/2026-08-30-ai-capital-riptide/brief.md)** (2026-08-30) — Winton’s claim that AI infrastructure will bid up the cost of capital enough to starve traditional businesses of cheap rollover credit, even those with no direct AI exposure.
